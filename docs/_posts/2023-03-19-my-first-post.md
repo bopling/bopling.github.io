@@ -4,8 +4,8 @@ slug: a post
 ---
 <audio
         controls
-        src="/audio/thelessiknowthebetter.mp3">
-            <a href="/audio/thelessiknowthebetter.mp3">
+        src="/docs/audio/thelessiknowthebetter.mp3">
+            <a href="/docs/audio/thelessiknowthebetter.mp3">
                 Download audio
             </a>
     </audio>
