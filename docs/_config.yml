@@ -28,7 +28,7 @@ twitter_username: none
 github_username:  bopling
 
 # Build settings
-theme: minima
+remote_theme: no-style-please
 plugins:
   - jekyll-feed
 
