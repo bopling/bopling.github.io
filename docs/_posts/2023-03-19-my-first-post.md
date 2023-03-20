@@ -4,8 +4,8 @@ slug: a post
 ---
 <audio
         controls autoplay
-        src="/docs/audio/thelessiknowthebetter.mp3">
-            <a href="/docs/audio/thelessiknowthebetter.mp3">
+        src="/gh-pages/docs/audio/thelessiknowthebetter.mp3">
+            <a href="/gh-pages/docs/audio/thelessiknowthebetter.mp3">
                 Download audio
             </a>
     </audio>
