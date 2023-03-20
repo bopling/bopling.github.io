@@ -2,11 +2,11 @@ title: a blog to document my thoughts
 author: bop
 email: pika6268@gmail.com
 url: http://bopling.github.io.com # root address of the site
-baseurl: "/blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   my blog where i write things
 
-permalink: ""
+permalink: /:slug.html 
 
 favicon: ""
 
