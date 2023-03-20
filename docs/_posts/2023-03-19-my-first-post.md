@@ -14,6 +14,19 @@ slug: a post
 
 essentially this is the introduction to my blog and myself i guess. it's pretty anticlimatic to say the least but here's a song: **The Less I Know The Better by Tame Impala**. it's pretty nostalgic to me because i remember when i first found this song and needless to say my music taste was *absolutely revolutionized.* 
 
+## BASIC FACTS ABOUT ME BEFORE I SPIRAL OFF INTO A RANT
+
+- aspiring physics/astrophysics major who is good at humanities and sort of mediocre at stem but still loves it
+- favorite game(s): i like mmorpgs, but i haven't played them lately. otherwise, i play all sorts of steam games, roblox, and dragonvale.
+- favorite band: Beach Bunny
+- favorite song: *Yes I'm Changing* by *Tame Impala*
+- favorite food: chocolate chip pancakes
+- favorite book: The Mallorean by David Eddings
+- favorite quote: "This too shall pass"
+
+
+### cont. first blog post
+
 my music taste previously was terrifying like ajr and other horrible artists i cannot bring myself to mention because middle school me didn't really know how to really do music or know good music artists. i was virtually blind to the world of music and i had no idea what genres even were, but that's ok;
 
 because i'm completely deaf. not completely but i wear cochlear implants. to explain a little bit about me i was born this way and got my implants at like 2 years old. which is pretty normal for cochlear implant wearers, though i know there's controversy about if a baby can consent to something like that. i certainly didn't like it; i threw my implants on the floor all the time. but i still love hearing to this day <sub>please don't hate on me Deaf community this is just my opinion</sub> but either way, my complete "congential deafness" (as it is referred to) is caused by a connexin 26 mutation. this mutation was because my mom and dad both had the same recessive gene that they just happened to carry onto my brother and me by accident.. and it was about a one in four chance for both of us. to be honest that's insane.
