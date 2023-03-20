@@ -3,7 +3,7 @@ layout: post
 slug: a post
 ---
 <audio
-        controls
+        controls>
         <source src="/docs/audio/thelessiknowthebetter.mp3" type="audio/mpeg" />
             <a href="/docs/audio/thelessiknowthebetter.mp3">
                 Download audio
