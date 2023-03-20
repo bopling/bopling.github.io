@@ -24,8 +24,11 @@ essentially this is the introduction to my blog and myself i guess. it's pretty 
 - favorite book: The Mallorean by David Eddings
 - favorite quote: "This too shall pass"
 
+## Table of contents
+- [Table of contents](#table-of-contents)
+- [cont. first blog post](#cont-first-blog-post)
 
-### cont. first blog post
+## cont. first blog post
 
 my music taste previously was terrifying like ajr and other horrible artists i cannot bring myself to mention because middle school me didn't really know how to really do music or know good music artists. i was virtually blind to the world of music and i had no idea what genres even were, but that's ok;
 
