@@ -2,7 +2,7 @@
 layout: post
 slug: a post
 ---
-<audio loop
+<audio autoplay loop
         controls
         src="https://github.com/bopling/bopling.github.io/blob/gh-pages/docs/audio/thelessiknowthebetter.mp3?raw=true">
             <a href="https://github.com/bopling/bopling.github.io/blob/gh-pages/docs/audio/thelessiknowthebetter.mp3?raw=true">
