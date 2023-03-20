@@ -3,8 +3,8 @@ layout: post
 slug: a post
 ---
 <audio
-        controls>
-        <source src="/docs/audio/thelessiknowthebetter.mp3" type="audio/mpeg" />
+        controls autoplay
+        src="/docs/audio/thelessiknowthebetter.mp3">
             <a href="/docs/audio/thelessiknowthebetter.mp3">
                 Download audio
             </a>
