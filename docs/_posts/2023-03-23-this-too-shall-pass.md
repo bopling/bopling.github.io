@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: a post
+slug: will it pass
 ---
 <audio autoplay loop
         controls
