@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: a post
+category: first post
 ---
 <audio autoplay loop
         controls
