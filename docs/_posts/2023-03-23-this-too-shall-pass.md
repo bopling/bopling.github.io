@@ -1,6 +1,6 @@
 ---
 layout: post
-slug: will it pass
+category: will it pass
 ---
 <audio autoplay loop
         controls
