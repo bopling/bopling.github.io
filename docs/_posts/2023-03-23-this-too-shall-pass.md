@@ -10,6 +10,8 @@ slug: a post
             </a>
 </audio>
 
+the song is **This Is A Life** by *Son Lux*. it was made for the movie Everything Everywhere All At Once, which is a fantastic movie and a must-watch.
+
 # this too shall pass
 
 i think a lot about this quote. it's not attributed to anyone in specific, although people do accredit its popularity to the 19th century poet Edward FitzGerald.
