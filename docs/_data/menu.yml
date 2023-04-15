@@ -8,7 +8,7 @@ entries:
       - title: "uses the no-style-please style by <a href='https://riggraz.dev'>riggraz.dev</a>"
 
   - title: about me
-    url: a-post
+    url: my-first-post.html
 
   - title: all posts
     post_list:
